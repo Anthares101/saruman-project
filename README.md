@@ -18,3 +18,7 @@ Follow this steps:
 4. Now you can double click on `Saruman.uproject` and Unreal will ask to rebuild the module, do it and wait for it to finish
 
 After all this steps the project should open for you. Maybe the editor report some errors about the lighting system, just click on the Unreal editor `Render` button (Maybe the editor ask you for network access, allow it, it is needed for this process).
+
+## Additional information
+
+The `SarumanPlayerController` already has the F key configured to execute an ability. No abilities are shipped with this project so at first it will simply do nothing until an ability is created and configured to use.
