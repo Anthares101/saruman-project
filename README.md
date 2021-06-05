@@ -21,4 +21,4 @@ After all this steps the project should open for you. Maybe the editor report so
 
 ## Additional information
 
-The `SarumanPlayerController` already has the F key configured to execute an ability. No abilities are shipped with this project so at first it will simply do nothing until an ability is created and configured to use.
+The `SarumanPlayerController` already has the F key configured to execute an ability. No abilities are shipped with this project, so at first it will simply do nothing until an ability is created and configured to use.
