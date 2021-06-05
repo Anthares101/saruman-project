@@ -17,4 +17,4 @@ Follow this steps:
 3. Click on `Generate Visual Studio project files` and wait for it to finish
 4. Now you can double click on `Saruman.sln` and Unreal will ask to rebuild the module, do it and wait for it to finish
 
-After all this steps the project should open for you. Maybe the editor report some errors about the lighting system, just click on the Unreal editor `Render` (Maybe the editor ask you for network access, allow it, it is needed for this process).
+After all this steps the project should open for you. Maybe the editor report some errors about the lighting system, just click on the Unreal editor `Render` button (Maybe the editor ask you for network access, allow it, it is needed for this process).
